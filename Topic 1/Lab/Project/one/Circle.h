@@ -11,9 +11,9 @@ public:
     {
         radius = 0;
     }
-    Circle(double rad)
+    Circle(double radius)
     {
-        radius = rad;
+        Circle::radius = radius;
     }
     void setRadius(double rad)
     {
