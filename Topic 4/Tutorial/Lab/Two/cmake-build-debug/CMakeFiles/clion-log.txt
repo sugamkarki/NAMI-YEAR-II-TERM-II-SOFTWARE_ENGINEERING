@@ -1,0 +1,14 @@
+"H:\CLion\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\NAMI\Year 2\Term II\Courses\Software Engineering\Topic 4\Tutorial\Lab\two"
+-- The C compiler identification is GNU 9.2.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+CMake Error: Cannot determine link language for target "two".
+CMake Error: CMake can not determine linker language for target: two
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.
+Unable to determine product file path for target two. Running and debugging will be unavailable.

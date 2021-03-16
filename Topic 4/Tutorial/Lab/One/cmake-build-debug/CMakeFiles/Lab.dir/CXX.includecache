@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 4/Tutorial/Lab/one/Book.h
+Publication.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 4/Tutorial/Lab/one/Publication.h
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 4/Tutorial/Lab/one/Publication.h
+string
+-
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 4/Tutorial/Lab/one/Tape.h
+Publication.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 4/Tutorial/Lab/one/Publication.h
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 4/Tutorial/Lab/one/main.cpp
+iostream
+-
+Book.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 4/Tutorial/Lab/one/Book.h
+Tape.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 4/Tutorial/Lab/one/Tape.h
+Publication.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 4/Tutorial/Lab/one/Publication.h
+

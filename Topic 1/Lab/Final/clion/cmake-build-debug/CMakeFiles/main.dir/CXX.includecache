@@ -6,17 +6,11 @@
 
 #IncludeRegexTransform: 
 
-E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 1/Lab/Final/clion/Circle.cpp
-iostream
--
-Circle.h
-E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 1/Lab/Final/clion/Circle.h
-
 E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 1/Lab/Final/clion/Circle.h
 
 E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 1/Lab/Final/clion/main.cpp
 iostream
 -
-Circle.cpp
-E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 1/Lab/Final/clion/Circle.cpp
+Circle.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 1/Lab/Final/clion/Circle.h
 
