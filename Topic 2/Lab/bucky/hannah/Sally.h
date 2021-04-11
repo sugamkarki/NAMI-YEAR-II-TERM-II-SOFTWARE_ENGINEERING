@@ -2,15 +2,21 @@
 // Created by sk_np on 3/22/2021.
 //
 
-#ifndef HANNAH_SALLY_H
-#define HANNAH_SALLY_H
-
+#ifndef SALLY_H
+#define SALLY_H
 
 
 class Sally {
+public:
+    int num;
+
+    Sally();
+
+    Sally(int);
+
+    Sally operator+(Sally);
 
 };
 
 
-
-#endif //HANNAH_SALLY_H
+#endif

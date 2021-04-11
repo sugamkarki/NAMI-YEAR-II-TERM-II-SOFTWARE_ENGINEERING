@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Employee.h
+string
+-
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Laborer.h
+Employee.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Employee.h
+string
+-
+Student.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Student.h
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Manager.h
+Employee.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Employee.h
+Student.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Student.h
+string
+-
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Scientist.h
+Student.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Student.h
+Employee.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Employee.h
+string
+-
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Student.h
+string
+-
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/main.cpp
+iostream
+-
+string
+-
+Scientist.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Scientist.h
+Student.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Student.h
+Manager.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Manager.h
+Laborer.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Laborer.h
+Employee.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/One/Employee.h
+

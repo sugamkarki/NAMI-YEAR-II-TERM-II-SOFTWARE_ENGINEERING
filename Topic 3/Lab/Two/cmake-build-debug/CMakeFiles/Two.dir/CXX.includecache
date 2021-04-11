@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/Two/Employee.h
+string
+-
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/Two/ProductionWorker.h
+Employee.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/Two/Employee.h
+string
+-
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/Two/main.cpp
+iostream
+-
+string
+-
+ProductionWorker.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/Two/ProductionWorker.h
+

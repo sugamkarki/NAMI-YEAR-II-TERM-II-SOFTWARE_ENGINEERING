@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/Three/FuelGauge.h
+string
+-
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/Three/Odometer.h
+FuelGauge.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/Three/FuelGauge.h
+string
+-
+
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/Three/main.cpp
+iostream
+-
+string
+-
+Odometer.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/Three/Odometer.h
+FuelGauge.h
+E:/NAMI/Year 2/Term II/Courses/Software Engineering/Topic 3/Lab/Three/FuelGauge.h
+
